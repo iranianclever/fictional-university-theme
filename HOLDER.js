@@ -1,4 +1,4 @@
-// This is a delete code.
+ // This is a delete code.
       $.when(
         $.getJSON(
           universityData.root_url +
